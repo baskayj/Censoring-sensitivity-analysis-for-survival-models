@@ -1,0 +1,1 @@
+{"n_hidden": 1024, "mixture_components": 8, "use_sparse_layer": false, "use_batchnorm": false, "use_dropout": false, "mlp_size_1": 6, "mlp_size_2": 0, "mlp_size_3": 1, "kernel": "Logistic", "loss_name": "AlternativeNLLLoss", "UnoC": 0.7068620691332198}

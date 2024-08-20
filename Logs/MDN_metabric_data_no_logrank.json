@@ -1,0 +1,1 @@
+{"n_hidden": 256, "mixture_components": 10, "use_sparse_layer": true, "use_sparse_loss": true, "lmbd": 1.4963805463910381e-05, "use_batchnorm": true, "use_dropout": true, "dropout": 0.7734249900448279, "mlp_size_1": 1, "mlp_size_2": 4, "mlp_size_3": 0, "kernel": "Exponential", "loss_name": "AlternativeNLLLoss", "UnoC": 0.7786620056496094}

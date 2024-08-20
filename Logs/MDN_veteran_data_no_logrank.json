@@ -1,0 +1,1 @@
+{"n_hidden": 256, "mixture_components": 2, "use_sparse_layer": true, "use_sparse_loss": false, "use_batchnorm": true, "use_dropout": false, "mlp_size_1": 0, "mlp_size_2": 2, "mlp_size_3": 0, "kernel": "Exponential", "loss_name": "NLLLoss", "UnoC": 0.7525040355892574}

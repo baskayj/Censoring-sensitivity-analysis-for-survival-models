@@ -1,0 +1,1 @@
+{"n_hidden": 1024, "mixture_components": 8, "use_sparse_layer": false, "use_batchnorm": false, "use_dropout": true, "dropout": 0.6197630727681631, "mlp_size_1": 2, "mlp_size_2": 4, "mlp_size_3": 1, "kernel": "Gamma", "loss_name": "AlternativeNLLLoss", "UnoC_LR": 0.8901518638077398}

@@ -1,0 +1,1 @@
+{"n_estimators": 205, "min_samples_split": 0.020291985051448524, "min_samples_leaf": 0.1385578826583956, "min_weight_fraction_leaf": 0.008989451494319872, "max_features": 0.8506371302781686, "bootstrap": false, "max_samples": 0.9787021656147553, "UnoC_LR": 0.9207214438111938}

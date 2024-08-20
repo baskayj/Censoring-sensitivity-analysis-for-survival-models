@@ -1,0 +1,1 @@
+{"n_hidden": 256, "mixture_components": 5, "use_sparse_layer": true, "use_sparse_loss": false, "use_batchnorm": false, "use_dropout": true, "dropout": 0.16282610152693927, "mlp_size_1": 3, "mlp_size_2": 1, "mlp_size_3": 0, "kernel": "Normal", "loss_name": "CensoredNLLLoss", "UnoC_LR": 0.8433318468070169}
